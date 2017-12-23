@@ -1,3 +1,3 @@
 # AmalSELMI.github.io
 website
-https://AmalSEMLI.github.io
+https://AmalSELMI.github.io
