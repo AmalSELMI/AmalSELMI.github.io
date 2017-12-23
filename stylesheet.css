@@ -1,0 +1,28 @@
+.navbar {
+  height: 50px;
+}
+.main {
+height: 70%;
+margin: auto;
+}
+
+.etirer {
+  height: 100%;
+}
+.center {
+  width:30%;
+  display: block;
+  margin: 30px auto;
+}
+.activités {
+  display: inline-block;
+}
+
+div[class^="col"] {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
+.card-img-top{
+  height: 200px;
+}
