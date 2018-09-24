@@ -5,7 +5,6 @@ body {
     font-size:18px;
     color:#444;
     padding:0 10px;
-    background-image: linear-gradient(to bottom right,#ffa78e,#f7ffa8);
     }
 h1,h2,h3{
     line-height:1.2;
@@ -16,3 +15,9 @@ img {
     margin: 20px 120px;
     width: 50%;
 }
+.psy {
+    margin: auto 235px;;
+}
+/* #body {
+    background-color: magenta;
+} */
